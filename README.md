@@ -1,5 +1,5 @@
 # mari
-Mari is the minimal HTTP server that runs Kreato Linux's binary repository.
+Mari is the minimal HTTP server (but not really) that runs Kreato Linux's binary repository.
 
 # Features
 * Under 20 LOC
